@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Menu principal
 player:
     - url: /getting-started/pt-br
       title: Getting Started
@@ -42,9 +42,9 @@ developer:
 
 # Sonolus Wiki
 
-Knowledge center for everything about Sonolus.
+Centro de conhecimento para tudo sobre Sonolus.
 
-## Player
+## Usuário
 
 ::: CardList category="player"
 

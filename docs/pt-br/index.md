@@ -2,14 +2,14 @@
 title: Menu principal
 player:
     - url: /getting-started/pt-br
-      title: Getting Started
-      description: Getting started with Sonolus
+      title: Começando
+      description: Introdução ao Sonolus
     - url: /release-notes/pt-br
-      title: Release Notes
-      description: Information of latest and past releases of Sonolus
+      title: Notas de versão
+      description: Informações sobre versões mais recentes e anteriores do Sonolus
 developer:
     - url: /sonolus.js-guide/pt-br
-      title: Sonolus.js Guide
+      title: Guia para Sonolus.js
       description: Guide to engine development using Sonolus.js
     - url: /custom-server-specs/pt-br
       title: Custom Server Specs
